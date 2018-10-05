@@ -2,6 +2,12 @@
 # Checking to see if packages are installed
 # then installing packages which are not installed
 #####################################
+#
+# supporting example code for this workshop can be
+# found at: github.com/fostvedt/ACoP-ordinal-regression
+#
+#####################################
+
 
 packages <- c("ggplot2", # plotting
               "GGAlly", # pairwise plotting
