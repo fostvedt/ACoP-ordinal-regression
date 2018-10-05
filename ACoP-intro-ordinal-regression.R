@@ -1,8 +1,10 @@
 ################################################
 # ACOP 2018 log reg analysis Introduction      #
-#                                              #
+# Ana Ruiz-Garcia, PhD
+# email: ana.ruiz@pfizer.com
+# Prepared October 2018
+# creative commons license
 ################################################
-#setwd("H:/My Documents/blabla")
 
 #loading libraries
 library(dplyr)

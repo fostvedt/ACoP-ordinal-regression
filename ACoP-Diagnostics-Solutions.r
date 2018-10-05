@@ -1,5 +1,10 @@
 ################################################
-# ACOP 2018 log reg analysis Introduction      #
+# ACOP 2018 Ordinal Logistic Regression Introduction      
+# Hands On solutions
+# Luke Fostvedt, PhD
+# email: Luke.Fostvedt@pfizer.com
+# Prepared October 2018
+# creative commons license
 ################################################
 #loading libraries
 library(dplyr)

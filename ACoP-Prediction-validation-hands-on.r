@@ -1,6 +1,10 @@
 ################################################
 # ACOP 2018 HO Solutions                       #
-#                                              #
+# Tim Nicholas, PhD
+# email: Timothy.Nicholas@pfizer.com
+# Prepared October 2018
+# creative commons license
+################################################
 ################################################
 rm(list=ls())
 
