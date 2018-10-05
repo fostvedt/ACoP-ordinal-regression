@@ -59,9 +59,9 @@ scale_test(mod.clm)
 mod.polr <- polr(DV~SEX+BIO+CMAXSS,data=dat1)
 summary(mod.polr)
 # there should be a warning message about expected cell counts
-pulkrob.chisq(mod.polr,"SEX")
 pulkrob.deviance(mod.polr,"SEX")
 logitgof(dat1$DV,fitted(mod.polr),g=6,ord=TRUE)
+
 #should have no warning message
 lipsitz.test(mod.polr,g=6)
 
