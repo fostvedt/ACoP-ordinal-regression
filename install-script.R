@@ -10,7 +10,7 @@
 
 
 packages <- c("ggplot2", # plotting
-              "GGAlly", # pairwise plotting
+              "GGally", # pairwise plotting
               "gridExtra", # plotting grid.arrange() function
               "dplyr",  # data manipulation
               "reshape2", # data manipulation
